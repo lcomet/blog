@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: Stillness
 tags: [thoughts, expressions]
 ---
 Remain still, that is the key. 
