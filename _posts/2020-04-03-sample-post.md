@@ -3,7 +3,9 @@ layout: post
 title: First post
 tags: [thoughts, expressions]
 ---
-Remain still, that is the key. But what does it mean? Does it mean to just be quiet, to be silent, to try to stop the waterfall of thoughts? Does stillness mean to be in a deeply meditative state? Or maybe is just to be with oneself and pay attention to the breath, or to a line of light reflected on the wall?
+Remain still, that is the key. 
+
+But what does it mean? Does it mean to just be quiet, to be silent, to try to stop the waterfall of thoughts? Does stillness mean to be in a deeply meditative state? Or maybe is just to be with oneself and pay attention to the breath, or to a line of light reflected on the wall?
 
 I've been trying meditation, focusing on my breathing, trying to be one with the universe by connecting with the present moment. May be it sounds abstract and cliché, but that is exactly what I've been doing for some time now, let say a year and a half. Does it have some result? Do I see some difference in my life?
 

@@ -5,13 +5,15 @@
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/blog/</link>
     <description>A website with blog posts and pages</description>
-    <pubDate>Sat, 04 Apr 2020 12:31:45 +0200</pubDate>
+    <pubDate>Sat, 04 Apr 2020 12:43:46 +0200</pubDate>
     
       <item>
         <title>First post</title>
         <link>/blog/2020/04/03/sample-post.html</link>
         <guid isPermaLink="true">/blog/2020/04/03/sample-post.html</guid>
-        <description>&lt;p&gt;Remain still, that is the key. But what does it mean? Does it mean to just be quiet, to be silent, to try to stop the waterfall of thoughts? Does stillness mean to be in a deeply meditative state? Or maybe is just to be with oneself and pay attention to the breath, or to a line of light reflected on the wall?&lt;/p&gt;
+        <description>&lt;p&gt;Remain still, that is the key.&lt;/p&gt;
+
+&lt;p&gt;But what does it mean? Does it mean to just be quiet, to be silent, to try to stop the waterfall of thoughts? Does stillness mean to be in a deeply meditative state? Or maybe is just to be with oneself and pay attention to the breath, or to a line of light reflected on the wall?&lt;/p&gt;
 
 &lt;p&gt;I’ve been trying meditation, focusing on my breathing, trying to be one with the universe by connecting with the present moment. May be it sounds abstract and cliché, but that is exactly what I’ve been doing for some time now, let say a year and a half. Does it have some result? Do I see some difference in my life?&lt;/p&gt;
 
