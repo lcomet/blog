@@ -1,5 +1,13 @@
 ---
 layout: post
-title: Another post
+title: Excerpt from the book  5000 B.C. and Other Philosophical Fantasies
 feature-img: "assets/img/hilmaafklintsvanen.png"
 ---
+
+ 162 Concluding Pieces
+ANDRICUS: Of course not! What I said was that I find it impossible for me to both be (or sound) rational and to believe in other minds, which is very different!
+SECOND PHILOSOPHER: But what about when you were a child? You told us that in those days you had no difficulty believing in other minds. Did you then have to say, "Other minds exist, but they are all identical with mine"? Did you then have to get enraptured by the notion of enlightened solipsism?
+ANDRICUS: Of course not. Those were my days of innocence and· true knowledge. As I told you, those were the times when I accepted other minds as a matter of course without any doubts whatsoever- though of course I never verbalized this.
+EPISTEMOLOGIST: SO what happened to you in the interim?
+ANDRICUS: What happened to me? My troubles all started in adolescence when I read the philosophers. Then for the first time bugs were put into my brain: How do you know other minds exist? Is it certain or only probable? What could it mean for other minds to exist? How can you possibly think of or believe anything outside your own experience? Having swallowed all this poison, the only way I know how to return to sanity is, unfortunately, by violating language, and talking about such things as enlightened solipsists.
+Yet I don't know. Am I really so much worse off than I was before? Just think of it! A world full of enlightened solipsists! What could be more perfect?
